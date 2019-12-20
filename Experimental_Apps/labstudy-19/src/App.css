@@ -1,0 +1,25 @@
+/*Basic CSS of the main page setup*/
+
+.outerContainer {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.innerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  width: 1200px;
+  /*border: solid 5px black;*/
+
+  /*font-size: 18px;*/
+  text-align: center;
+}
+
+.footer {
+  margin-top: 10px;
+}

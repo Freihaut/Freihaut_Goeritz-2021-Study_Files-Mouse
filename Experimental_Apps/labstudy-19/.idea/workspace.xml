@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ef088d7-e7e9-4a4c-88c3-b6092067ddad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/BfiNeuroticism.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/BfiNeuroticism.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/DragDropTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/DragDropTask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/DrawingTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/DrawingTask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/End.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/End.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/EnterUserId.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/EnterUserId.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/FollowBoxTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/FollowBoxTask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/IntroPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/IntroPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/LoadingTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/LoadingTask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/Mdbf.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/Mdbf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/MentalArithmetics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/MentalArithmetics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/PatternTyping.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/PatternTyping.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/PointClickTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/PointClickTask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/QuestionsAfterTasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/QuestionsAfterTasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/RelaxationBeforeLowstress.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/RelaxationBeforeLowstress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/Sam.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/Sam.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/Soziodem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/Soziodem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/TrialEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/TrialEnd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/TrialInstruction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/TrialInstruction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/TypingTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/TypingTask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/DragCircle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/DragCircle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/MatrixButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/MatrixButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/MatrixQuestion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/MatrixQuestion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/MentalArithmeticsAnswers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/MentalArithmeticsAnswers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/ProceedButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/ProceedButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/Timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/Timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StyleSheets/BlinkingPicture.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/StyleSheets/BlinkingPicture.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StyleSheets/Loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/StyleSheets/Loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StyleSheets/MovingBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/StyleSheets/MovingBox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StyleSheets/PointClickButtons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/StyleSheets/PointClickButtons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StyleSheets/resultsLoader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/StyleSheets/resultsLoader.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console</find>
+      <find>console.log</find>
+      <find>circlesClicked</find>
+      <find>dragging</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Uk7DbKCboxvWBJi9y1Prm29Dzb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\freihautLokal\Desktop\Apps\labstudy-19\src\ExperimentalPages" />
+      <recent name="C:\Users\freihautLokal\Desktop\Apps\labstudy-19\src\Images" />
+      <recent name="C:\Users\freihautLokal\Desktop\Apps\labstudy-19\src\Sounds" />
+      <recent name="C:\Users\freihautLokal\Desktop\Apps\labstudy-19\src\ExperimentalPages\IntroPages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\freihautLokal\Desktop\Apps\labstudy-19\src\ExperimentalPages" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ef088d7-e7e9-4a4c-88c3-b6092067ddad" name="Default Changelist" comment="" />
+      <created>1552297061501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552297061501</updated>
+      <workItem from="1552297063270" duration="1322000" />
+      <workItem from="1552303887682" duration="5661000" />
+      <workItem from="1552313932026" duration="3655000" />
+      <workItem from="1552377675083" duration="19041000" />
+      <workItem from="1552465111054" duration="20516000" />
+      <workItem from="1552552148098" duration="24495000" />
+      <workItem from="1552641208300" duration="11271000" />
+      <workItem from="1552902453141" duration="19015000" />
+      <workItem from="1552983949688" duration="22008000" />
+      <workItem from="1553070857795" duration="22893000" />
+      <workItem from="1553154949305" duration="21423000" />
+      <workItem from="1553503670469" duration="11128000" />
+      <workItem from="1553589498903" duration="654000" />
+      <workItem from="1553590233881" duration="8318000" />
+      <workItem from="1553679451881" duration="26000" />
+      <workItem from="1554280486146" duration="6072000" />
+      <workItem from="1554288341999" duration="4203000" />
+      <workItem from="1554362328408" duration="4521000" />
+      <workItem from="1554447989713" duration="20180000" />
+      <workItem from="1554707729508" duration="19086000" />
+      <workItem from="1554793598539" duration="12576000" />
+      <workItem from="1554886246010" duration="13450000" />
+      <workItem from="1554968650572" duration="15533000" />
+      <workItem from="1555053829794" duration="5932000" />
+      <workItem from="1555079865140" duration="22000" />
+      <workItem from="1555310829355" duration="6427000" />
+      <workItem from="1556284114344" duration="4655000" />
+      <workItem from="1556625289022" duration="3469000" />
+      <workItem from="1556703838233" duration="1107000" />
+      <workItem from="1557323132863" duration="631000" />
+      <workItem from="1557324776182" duration="2967000" />
+      <workItem from="1557403037643" duration="269000" />
+      <workItem from="1558451970891" duration="887000" />
+      <workItem from="1560953087681" duration="623000" />
+      <workItem from="1575888623956" duration="3040000" />
+      <workItem from="1576055641891" duration="1982000" />
+      <workItem from="1576243868395" duration="896000" />
+      <workItem from="1576489021801" duration="1241000" />
+      <workItem from="1576658772115" duration="5607000" />
+      <workItem from="1576832564363" duration="5732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2636" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576834040367">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2636" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1576834040367" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1576081225777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576081225777" />
+    <state x="2660" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1575891320847" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
