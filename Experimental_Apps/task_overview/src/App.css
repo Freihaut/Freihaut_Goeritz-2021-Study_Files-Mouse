@@ -1,0 +1,42 @@
+/*Basic CSS of the main pageNumber setup*/
+
+.outerContainer {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.innerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  width: 930px;
+  /*border: solid 5px black;*/
+
+  /*font-size: 18px;*/
+  text-align: center;
+}
+
+.small-screen {
+  display: none;
+}
+
+@media only screen and (max-width: 950px), screen and (max-height: 500px) {
+  .small-screen {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .innerContainer {
+    display: none;
+  }
+}
