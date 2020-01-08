@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/226836523.svg)](https://zenodo.org/badge/latestdoi/226836523)
+
 # Repository for Study Material
 
 <h3> General Information </h3>
