@@ -4,4 +4,4 @@ This folder contains the experimental web application with which the study was c
 
 The experimental app is the original app used in the experiment and in German.
 
-We additionally added another React web app in this folder, which contains a demo version of the tasks used in the study. This demo app is in English and can be tested live <a href="https://task-demo-app.web.app/"> here </a>.
+We additionally added another React web app in this folder, which contains a demo version of the tasks used in the study. This demo app is in English and can be tested live <a href="https://task-demo-app.web.app/"> here </a>. In the demo app you can choose between the tasks as well as the stressor used in the original experiment.
