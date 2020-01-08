@@ -1,3 +1,14 @@
+## This is the demo web application to view the tasks used in the study.
+
+#### The app can be live tested <a href="https://task-demo-app.web.app/">here</a>.
+
+We used Firebase as a backend to host the app (https://firebase.google.com/). 
+
+As an additional libary the Bulma CSS framework was used (https://bulma.io/).
+
+The following is the original Readme documentation when creating a React App project:
+</br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
