@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/226836523.svg)](https://zenodo.org/badge/latestdoi/226836523)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3601036.svg)](https://doi.org/10.5281/zenodo.3601036)
 
 # Repository for Study Material
 
