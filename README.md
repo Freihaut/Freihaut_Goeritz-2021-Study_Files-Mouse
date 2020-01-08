@@ -19,5 +19,5 @@ The data analysis files should be ready to run in order to reproduce all data an
 
 For questions regarding the study material contact: paul.freihaut@psychologie.uni.freiburg.de
 
-To cite the material (according to Zenodo):
+To cite the material (according to Zenodo):</br>
 Freihaut, P., & Göritz, A. S. (2020, January 8). Study Material "Using the computer mouse for stress measurement" (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3601036
