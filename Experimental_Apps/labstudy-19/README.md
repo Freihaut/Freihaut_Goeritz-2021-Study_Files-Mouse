@@ -1,14 +1,13 @@
 ## This is the original experimental web application used in the study (in German).
 
-### We used Firebase as a backend to save the data and host the app (https://firebase.google.com/). 
+#### We used Firebase as a backend to save the data and host the app (https://firebase.google.com/). 
 
-### As an additional libary Bulma CSS framework was used (https://bulma.io/).
+#### As an additional libary Bulma CSS framework was used (https://bulma.io/).
 
-### The following is the original Readme documentation when creating a React App project:
-</br></br>
+#### The following is the original Readme documentation when creating a React App project:
+</br>
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
