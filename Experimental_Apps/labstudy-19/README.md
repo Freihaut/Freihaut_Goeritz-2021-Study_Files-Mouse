@@ -2,10 +2,11 @@
 
 We used Firebase as a backend to save the data and host the app (https://firebase.google.com/). 
 
-As an additional libary Bulma CSS framework was used (https://bulma.io/).
+As an additional libary the Bulma CSS framework was used (https://bulma.io/).
 
 The following is the original Readme documentation when creating a React App project:
 </br>
+##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
