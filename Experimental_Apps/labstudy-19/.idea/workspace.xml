@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef088d7-e7e9-4a4c-88c3-b6092067ddad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/BfiNeuroticism.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/BfiNeuroticism.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/DragDropTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/DragDropTask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/DrawingTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/DrawingTask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/End.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/End.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/EnterUserId.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/EnterUserId.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/FollowBoxTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/FollowBoxTask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/IntroPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/IntroPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/LoadingTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/LoadingTask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/Mdbf.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/Mdbf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/MentalArithmetics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/MentalArithmetics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/PatternTyping.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/PatternTyping.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/PointClickTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/PointClickTask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/QuestionsAfterTasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/QuestionsAfterTasks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/RelaxationBeforeLowstress.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/RelaxationBeforeLowstress.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/Sam.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/Sam.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/Soziodem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/Soziodem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/TrialEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/TrialEnd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/TrialInstruction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/TrialInstruction.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExperimentalPages/TypingTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExperimentalPages/TypingTask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/DragCircle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/DragCircle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/MatrixButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/MatrixButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/MatrixQuestion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/MatrixQuestion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/MentalArithmeticsAnswers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/MentalArithmeticsAnswers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/ProceedButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/ProceedButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LayoutComponents/Timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LayoutComponents/Timer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StyleSheets/BlinkingPicture.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/StyleSheets/BlinkingPicture.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StyleSheets/Loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/StyleSheets/Loader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StyleSheets/MovingBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/StyleSheets/MovingBox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StyleSheets/PointClickButtons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/StyleSheets/PointClickButtons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StyleSheets/resultsLoader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/StyleSheets/resultsLoader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data_Analysis_Code/Data_Analysis_General.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data_Analysis_Code/Data_Analysis_General.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task_overview/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task_overview/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +27,10 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1Uk7DbKCboxvWBJi9y1Prm29Dzb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -155,6 +122,13 @@
       <workItem from="1576489021801" duration="1241000" />
       <workItem from="1576658772115" duration="5607000" />
       <workItem from="1576832564363" duration="5732000" />
+      <workItem from="1578648625848" duration="663000" />
+      <workItem from="1578666250502" duration="1527000" />
+      <workItem from="1580135829310" duration="1418000" />
+      <workItem from="1580744205986" duration="1186000" />
+      <workItem from="1580997908368" duration="1174000" />
+      <workItem from="1581063569515" duration="1195000" />
+      <workItem from="1594020020572" duration="1058000" />
     </task>
     <servers />
   </component>

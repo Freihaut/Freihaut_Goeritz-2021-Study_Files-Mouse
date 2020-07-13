@@ -66,7 +66,7 @@ classification_bootstrap = {
 
 # Set the value of the analysis variable to the desired analysis
 # Default: t_test manipulation check with the eda, heart and questionnaire data)
-analysis = t_test_manipulation_check
+analysis = classification_permutation
 
 # RUN THE SCRIPT TO GET THE RESULTS. THEY ARE SAVED IN A TEXT FILE THAT IS CREATED AND NAMED ACCORDING TO THE ANALYSIS
 # Do not modify the code below if you just want to run the analysis
@@ -223,7 +223,7 @@ def manipulation_check_data_t_test(data_source):
         # get questionnaire feature columns
         questionnaire_cols = [i for i in dataset.head(0) if "Arousal" in i or "Valence" in i]
 
-        questionnaire_cols.extend(["nostalgia", "stress", "MDBF_GS", "MDBF_WM", "MDBF_GS", "condition"])
+        questionnaire_cols.extend(["nostalgia", "stress", "MDBF_GS", "MDBF_WM", "MBF_RU", "condition"])
 
         # create data set for analysis
         dv = dataset.loc[:, questionnaire_cols]
@@ -359,17 +359,19 @@ def paired_sample_t_test(dataframe):
     # create a text file and save the results in it
     with open("Results_Paired_sample_tTest.txt","a") as f:
         # loop over each variable in the column
-        for i in range(len(dataframe.columns)):
+        for i in indataframe.columns:
             # write down the variable name and the task
-            f.write(list(dataframe.columns)[i] + "\n")
+            f.write(str(i) + "\n")
             # write down the number of participants
             f.write("N = " + str(hs_frame.shape[0]) + "\n")
             # write down the mean and standard deviations of the variable
-            f.write("HS Mean: " + str(np.mean(hs_frame.iloc[:, i])) + ", HS Sd: " + str(np.std(hs_frame.iloc[:, i])) + "\n")
+            f.write("HS Mean: " + str(np.mean(hs_frame.loc[:, i])) + ", HS Sd: " + str(np.std(hs_frame.loc[:, i])) + "\n")
             f.write(
-                "LS Mean: " + str(np.mean(ls_frame.iloc[:, i])) + ", LS Sd: " + str(np.std(ls_frame.iloc[:, i])) + "\n")
+                "LS Mean: " + str(np.mean(ls_frame.loc[:, i])) + ", LS Sd: " + str(np.std(ls_frame.loc[:, i])) + "\n")
             # write down the results of the t-test
-            f.write(str(stats.ttest_rel(hs_frame.iloc[:, i], ls_frame.iloc[:, i])))
+            import pingouin as pg
+            ttest_results = pg.ttest(hs_frame.loc[:, i], ls_frame.loc[:, i], paired=True)
+            f.write(ttest_results.to_string())
             f.write("\n" + "\n" + "\n")
 
     # close the text file
@@ -546,7 +548,7 @@ def ml_permutation_test(task, dv, iv, groups):
 
     # import classifier algorithms
     from sklearn.linear_model import LogisticRegression
-    from sklearn.naive_bayes import GaussianNB
+    from sklearn.neighbors import KNeighborsClassifier
     from sklearn.svm import SVC
     from sklearn.ensemble import RandomForestClassifier
 
@@ -658,6 +660,11 @@ def ml_permutation_test(task, dv, iv, groups):
 
                 return self
 
+            # if feature selection should be ignored and all features should be chosen
+            elif self.method == "ignore":
+
+                return self
+
             # if not method is specified or method name is written wrongly use all features and no feature selection
             else:
                 print("Either no feature selection algorithm was used or it was misspelled. "
@@ -757,12 +764,12 @@ def ml_permutation_test(task, dv, iv, groups):
 
     # initiate machine learning algorithms
     log_reg = LogisticRegression(solver="liblinear")
-    gnb = GaussianNB()
+    knn = KNeighborsClassifier(n_neighbors=3)
     svm = SVC()
     forest = RandomForestClassifier(n_estimators=100, random_state=25)
 
     # chose which algorithms are used for the analysis
-    algorithms = [log_reg, gnb, svm, forest]
+    algorithms = [log_reg, knn, svm, forest]
 
     # Save the Results into a Textfile (the text file is created once and results are appended to the end of the file
     with open(
@@ -843,7 +850,7 @@ def ml_bootstrap(task, dv, iv, groups):
 
     # import classifier algorithms
     from sklearn.linear_model import LogisticRegression
-    from sklearn.naive_bayes import GaussianNB
+    from sklearn.neighbors import KNeighborsClassifier
     from sklearn.svm import SVC
     from sklearn.ensemble import RandomForestClassifier
 
@@ -976,11 +983,11 @@ def ml_bootstrap(task, dv, iv, groups):
 
     # initiate machine learning algorithms
     log_reg = LogisticRegression(solver="liblinear")
-    gnb = GaussianNB()
+    knn = KNeighborsClassifier(n_neighbors=3)
     svm = SVC()
     forest = RandomForestClassifier(n_estimators=100, random_state=25)
 
-    algorithms = [log_reg, gnb, svm, forest]
+    algorithms = [log_reg, knn, svm, forest]
 
     # Save the Results into a Textfile (the text file is created once and results are appended to the end of the file
     with open(
