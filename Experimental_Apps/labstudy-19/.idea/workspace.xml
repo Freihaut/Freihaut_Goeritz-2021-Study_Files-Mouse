@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ef088d7-e7e9-4a4c-88c3-b6092067ddad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Data_Analysis_Code/Data_Analysis_General.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Data_Analysis_Code/Data_Analysis_General.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task_overview/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task_overview/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ef088d7-e7e9-4a4c-88c3-b6092067ddad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Panelstudy-2020/Experimental_App" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -129,6 +126,17 @@
       <workItem from="1580997908368" duration="1174000" />
       <workItem from="1581063569515" duration="1195000" />
       <workItem from="1594020020572" duration="1058000" />
+      <workItem from="1597750434964" duration="214000" />
+      <workItem from="1597752824822" duration="842000" />
+      <workItem from="1598011933569" duration="351000" />
+      <workItem from="1605102866471" duration="201000" />
+      <workItem from="1605103101850" duration="25000" />
+      <workItem from="1605175801178" duration="57000" />
+      <workItem from="1605175968216" duration="189000" />
+      <workItem from="1605191966613" duration="1201000" />
+      <workItem from="1607013438422" duration="11000" />
+      <workItem from="1607013614379" duration="636000" />
+      <workItem from="1608034614812" duration="1334000" />
     </task>
     <servers />
   </component>
@@ -136,15 +144,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2636" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576834040367">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1608035348125">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="2636" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1576834040367" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1576081225777">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1576081225777" />
-    <state x="2660" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1575891320847" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1608035348125" />
   </component>
   <component name="masterDetails">
     <states>

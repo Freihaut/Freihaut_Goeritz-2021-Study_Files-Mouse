@@ -217,12 +217,13 @@ class App extends Component {
 
     // Initialize firebase: Put your firebase project credentials here
     firebase.initializeApp({
-      apiKey: "",
-      authDomain: "",
-      databaseURL: "",
-      projectId: "",
-      storageBucket: "",
-      messagingSenderId: ""
+        apiKey: "AIzaSyD8dVE6PsUrWPzT4YGUrfxkpy2MaTHsyNQ",
+        authDomain: "labstudy2019.firebaseapp.com",
+        databaseURL: "https://labstudy2019.firebaseio.com",
+        projectId: "labstudy2019",
+        storageBucket: "labstudy2019.appspot.com",
+        messagingSenderId: "845834997122",
+        appId: "1:845834997122:web:abc2648c443a4302abd39b"
     });
 
     firebase.auth().onAuthStateChanged(user => {
@@ -312,7 +313,6 @@ class App extends Component {
         taskNumHighStress: taskNum
       });
     }
-
   }
 
   renderComponent(phase) {
