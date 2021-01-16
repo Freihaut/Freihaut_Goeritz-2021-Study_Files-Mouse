@@ -3,7 +3,7 @@
 # Repository for Study Material
 
 <h3> General Information </h3>
-This repository contains all materials, data and data analysis files used in a labratory study documented in the research paper "Using the computer mouse for stress measurement – an empirical investigation and critical review" by Freihaut & Göritz, which will hopefully by published in the near future.</br></br>
+This repository contains all materials, data and data analysis files used in a labratory study documented in the research paper Freihaut, P. & Göritz, A. S. (in press). Using the computer mouse for stress measurement - an empirical investigation and critical review. International Journal of Human - Computer Studies, 145. DOI:10.1016/j.ijhcs.2020.102520 </br></br>
 
 We wholeheartedly thank our colleagues Johannes Blum and Christoph Rockstroh for their ideas, comments and expertise in programming. Without you, the project would have been doomed to fail. We recommend everyone to check out their research on the interplay between virtual reality and biofeedback in the context of mental health (Resono VR Project: https://resono-vr.de/ ; Flowborne VR Project: https://flowborne.com/ )
 
